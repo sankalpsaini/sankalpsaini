@@ -1,9 +1,9 @@
-## Hello hello 👋
+## Hello 👋
 
-My name is Sankalp and this is my personal Github! Thanks for visiting! I am a soon-to-be graduate from the University of Alberta in Computer Science and I am looking for some opportunities in 2024! I am experienced in full-stack development and am very interested in development, cybersecurity, and machine learning roles. Some more information about me:
+My name is Sankalp and this is my personal Github! Thanks for visiting! I am a graduate from the University of Alberta in Computer Science and am currently working as a SDE! I am experienced in full-stack development and am very interested in development, cybersecurity, and machine learning roles. Some more information about me:
 
-- 🌱 I will be graduating in April of 2024 with a large portion of my last year CMPUT classes being dedicated to Machine Learning. In addition to that, I will be honing my skills in C+, React.js, SQL, and Python.
-- 🔭 In addition to school projects, I’m currently working as the tech lead on a startup designed to allow users to invest using specific algorithms with little to no experience.
+- 🌱 I graduated in April of 2024 with a large portion of my last year CMPUT classes being dedicated to Machine Learning. In addition to that, I was honing my skills in C+, React.js, SQL, and Python.
+- 🔭 In addition to school projects, I have worked as the tech lead on a startup designed to allow users to invest using specific algorithms with little to no experience.
 - 💬 Make sure to ask me about ConnecTech. A virtual platform founded by myself to help Computer Science students learn more about local events, hackathons, conferences, resources, etc. to help them make the most out of their university careers!
 - 📫 How to reach me: visit www.sankalpsaini.com and email me from there!
 - ⚡ Fun fact! I just went skydiving recently and you could not get me to shut-up about that experience!
